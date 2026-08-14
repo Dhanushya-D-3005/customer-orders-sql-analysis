@@ -69,7 +69,7 @@ The analysis can help businesses:
 
 The complete capstone project presentation is available here:
 
-[View Capstone Project](./Capstone_Final_GitHub%20%281%29.pdf)
+[View Capstone Project](./Capstone_Final.pdf)
 
 Project
 
