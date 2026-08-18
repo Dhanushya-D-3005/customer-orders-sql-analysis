@@ -1,3 +1,5 @@
+
+
 # Customer Orders & Customer Segmentation Analysis
 
 ## Project Overview
@@ -73,6 +75,8 @@ The analysis can help businesses:
 ## Project Report
 
 The complete capstone project report is available in this repository.
+
+[View Capstone Project Report](./Capstone_Final_GitHub.pdf)
 
 ## Project
 
